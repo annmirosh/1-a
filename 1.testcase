@@ -1,0 +1,18 @@
+[
+    {
+        "id": "212db13b627b71614ca5fe9c899178d630a83a54eb225a04aa536f725f64d4c6",
+        "name": "o",
+        "phrases": [
+            {
+                "id": "5abfc9fa-3e45-f9c4-7ab7-8b5d5eb38483",
+                "parentId": "",
+                "request": {
+                    "text": "aloha"
+                },
+                "response": "[{\"text\":\"Hi\",\"error\":true,\"reqId\":\"1643054222246/1\",\"textInput\":true}]",
+                "meta": "{}",
+                "visualProperties": "{\"childIndex\":0}"
+            }
+        ]
+    }
+]
